@@ -68,3 +68,6 @@ Throughout the analysis in the notebook, I use Data Visualization and Machine Le
 (Whether passenger fly in Business or Economy Class) has a big effect on how satisfy the passengers are. 
 I think this will not help the Airline Industry improve their service, because airline don't decide if people purchase a business class or economy class ticket. 
 If Airline solely rely on this factor to improve service, it would be completely unreliable. 
+
+
+Please refer to the Medium: https://medium.com/@zzy98y/can-we-rely-on-air-travel-passenger-satisfaction-survey-to-improve-air-travel-experience-bc60ec474fb3
